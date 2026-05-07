@@ -1,52 +1,16 @@
-<<<<<<< HEAD
-# Clasificador de Gastos
-=======
-# Clasificador de Gastos 
-
->>>>>>> 32b0aa11cae64c43840de551e62fee7accfc153a
+# Clasificador de Gastos con IA
 
 ## Descripción
 
-Aplicación desarrollada en Python que interpreta gastos escritos en lenguaje natural y devuelve información estructurada como categoría, monto y descripción.
+Aplicación desarrollada en Python que permite registrar gastos y clasificarlos automáticamente.
 
-## Tecnologías utilizadas
+## Tecnologías
 
 * Python
 * Streamlit
-* Expresiones regulares (re)
-
-## Instalación
-
-Instalar dependencias:
-
-```bash
-pip install streamlit
-```
 
 ## Ejecución
 
-Ejecutar la aplicación:
-
-```bash
+```bash id="u4r9m6"
 python -m streamlit run app.py
 ```
-
-## Ejemplo de uso
-
-Entrada:
-
-```text
-cena familiar 2500
-```
-
-Salida:
-
-```text
-Categoría: Alimentación
-Monto: $2500
-Descripción: cena familiar
-```
-
-## Autor
-
-Barbara Rivero
