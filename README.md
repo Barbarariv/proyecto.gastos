@@ -1,8 +1,7 @@
 # Clasificador de Gastos con IA
 
-## Descripción
+Proyecto realizado en Python y Streamlit para registrar y clasificar gastos automáticamente.
 
-Aplicación desarrollada en Python que permite registrar gastos y clasificarlos automáticamente.
 
 ## Tecnologías
 
