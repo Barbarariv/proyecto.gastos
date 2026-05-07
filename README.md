@@ -1,4 +1,5 @@
-# Clasificador de Gastos con IA
+# Clasificador de Gastos 
+
 
 ## Descripción
 
