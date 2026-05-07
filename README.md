@@ -1,9 +1,7 @@
-<<<<<<< HEAD
+
 # Clasificador de Gastos
 =======
-# Clasificador de Gastos 
 
->>>>>>> 32b0aa11cae64c43840de551e62fee7accfc153a
 
 ## Descripción
 
